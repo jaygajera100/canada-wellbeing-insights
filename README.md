@@ -25,9 +25,7 @@ DAX formulas used in the dashboard
 
 Screenshots of visual reports
 
-Power BI file: Quality of Life.pbix
-
-Video overview: Quality of Life.mp4
+Power BI file: [Quality of Life.pbix]
 
 🧠 Conclusion
 Using data from Statistics Canada, we visualized quality of life indicators across major domains—ranging from economic well-being and healthcare to social inclusion and environmental sustainability. The resulting dashboard serves as a comprehensive tool for understanding and improving the Canadian quality of life.
@@ -38,6 +36,4 @@ Statistics Canada (2024, June 12). Quality of Life Hub. Government of Canada. So
 🚀 Getting Started
 Clone or download this repository.
 
-Open the Quality of Life.pbix file in Power BI Desktop.
-
-Watch the Quality of Life.mp4 presentation for a guided walkthrough.
+Open the [Quality of Life.pbix] file in Power BI Desktop.
