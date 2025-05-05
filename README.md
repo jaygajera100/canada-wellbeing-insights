@@ -1,1 +1,1 @@
-# canada-wellbeing-insights
+# Canada-Wellbeing-Insights
